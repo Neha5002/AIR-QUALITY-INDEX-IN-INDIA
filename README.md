@@ -1,4 +1,4 @@
-# Air Quality Analysis Dataset
+# Air Quality Prediction
 
 ##  Project Overview
 This project focuses on analyzing **air quality data** to understand pollution levels, trends, and patterns over time. The dataset includes key air pollutants and environmental indicators that help assess air quality and its potential impact on health and the environment.
